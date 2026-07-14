@@ -6,9 +6,8 @@
 
 Ola :)
 Prazer meu nome é Kevin, Obrigada por dar uma espiada no meu Github. 😶‍🌫️
-## Olá, meu nome é {seu nome}!
 
-### ⚙️ GitHub Analytics
+### ⚙️ Estatisticas do meu Github
 
 <table>
   <tr>
@@ -22,7 +21,7 @@ Prazer meu nome é Kevin, Obrigada por dar uma espiada no meu Github. 😶‍�
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieossified-second&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
