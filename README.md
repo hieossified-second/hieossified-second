@@ -9,14 +9,14 @@ Prazer meu nome é Kevin, Obrigada por dar uma espiada no meu Github. 😶‍�
 
 Sou iniciante no ramo então tenho muito a aprender :D
 
-![Minhas Estatisticas](https://github-stats-extended.vercel.app/api?username=hieossified-second&theme=aura_icons=true)
+![Minhas Estatisticas](https://github-stats-extended.vercel.app/api?username=hieossified-second&theme=midnight-purple_icons=true)
 
 
 **Sobre mim**:
 
+
 * ✦ 🌱 Atualmente estou fazendo _Analise e Desenvolvimento de Sistema na instituição Senac_.
 * ✦ 📫 Como me contatar: **Email: kevindasilvalima2008@gmail.com / [Linkedin](https://www.linkedin.com/in/kevin-lima-809297379/).**
-
 * ✦ 😄 Pronomes: Ele/Dele.
 
 
