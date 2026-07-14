@@ -9,7 +9,7 @@ Prazer meu nome é Kevin, Obrigada por dar uma espiada no meu Github. 😶‍�
 
 Sou iniciante no ramo então tenho muito a aprender :D
 
-![Minhas Estatisticas](https://github-stats-extended.vercel.app/api?username=hieossified-second&theme=midnight-purple_icons=true)
+![Minhas Estatisticas](https://github-stats-extended.vercel.app/api?username=hieossified-second&theme=midnight_purple_icons=true)
 
 
 **Sobre mim**:
