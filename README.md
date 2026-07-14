@@ -21,7 +21,7 @@ Sou iniciante no ramo então tenho muito a aprender :D
 
 
 * ✦ 🌱 Atualmente estou fazendo _Analise e Desenvolvimento de Sistema na instituição Senac_.
-* ✦ 📫 Como me contatar: **Email: kevindasilvalima2008@gmail.com / <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/kevin-lima-809297379/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>.**
+* ✦ 📫 Como me contatar: **<a href = "mailto:kevindasilvalima2008@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/kevin-lima-809297379/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>.**
 * ✦ 😄 Pronomes: Ele/Dele.
 
   
