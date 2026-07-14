@@ -1,16 +1,19 @@
-## Hi there 👋
+Helloo :)
+My name is Kevin, Thanks for looking at my Github 😶‍🌫️
 
-<!--
-**hieossified-second/hieossified-second** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ola :)
+Prazer meu nome é Kevin, Obrigada por dar uma espiada no meu Github 😶‍🌫️
 
-Here are some ideas to get you started:
+About me bellow:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Systems Analysis and Development at Senac College.
+- 📫 How to reach me: Email: kevindasilvalima2008@gmail.com / Linkedin.
+- 😄 Pronouns: He/Him.
+
+<a href="https://www.linkedin.com/in/SEU-USUARIO/" target="_blank">
+  <img
+    src="https://i.imgur.com/"
+    alt="LinkedIn"
+    width="800"
+  />
+</a>
