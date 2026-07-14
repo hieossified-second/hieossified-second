@@ -9,9 +9,7 @@ Prazer meu nome é Kevin, Obrigada por dar uma espiada no meu Github. 😶‍�
 
 Sou iniciante no ramo então tenho muito a aprender :D
 
-![Minhas Estatisticas](https://github-stats-extended.vercel.app/api?username=hieossified-second&theme=midnight-purple_icons=true)
-
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=hieossified-secon&repo=Projeto-Banco-simples)](https://github.com/hieossified-second/Projeto-Banco-simples)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=hieossified-second&layout=donut&langs_count=4&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=hieossified-second&layout=donut&langs_count=4&theme=midnight-purple)
 
 **Sobre mim**:
 
