@@ -14,6 +14,4 @@ Prazer meu nome é Kevin, Obrigada por dar uma espiada no meu Github. 😶‍�
 * ✦ 📫 Como me contatar: **Email: kevindasilvalima2008@gmail.com / Linkedin.**
 * ✦ 😄 Pronomes: Ele/Dele.
 
-![Java](<img width="512" height="512" alt="java" src="https://github.com/user-attachments/assets/aad9044e-0c2e-4ea4-8f00-85fbd9028b41" />
-)
-
+<img width="512" height="512" alt="java" src="https://github.com/user-attachments/assets/4d31f195-405f-4a23-a5c1-3d5d3a5b7f03" />
