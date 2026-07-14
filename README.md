@@ -7,9 +7,9 @@
 Ola :)
 Prazer meu nome é Kevin, Obrigada por dar uma espiada no meu Github. 😶‍🌫️
 
-![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=hieossified-second&theme=midnight-purple_icons=true)
 
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=hieossified-second&repo=type-trident)](https://github.com/anuraghazra/type-trident)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=hieossified-second&repo=type-trident)](https://github.com/hieossified-second/Projeto-Banco-simples)
 
 
 
