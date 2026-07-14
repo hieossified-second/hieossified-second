@@ -34,6 +34,8 @@ Sou iniciante no ramo então tenho muito a aprender :D
 
 <img width="50" height="50" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
 
+### Commits :)
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hieossified-second/hieossified-second/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hieossified-second/hieossified-second/output/github-contribution-grid-snake-dark.svg">
