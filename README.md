@@ -15,11 +15,3 @@ About me bellow:
 ✦ 📫 Como me contatar: Email: kevindasilvalima2008@gmail.com / Linkedin.
 ✦ 😄 Pronomes: Ele/Dele.
 
-Linkedin:
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/kevin-lima-809297379//" target="_blank">
-  <img
-    src="https://i.imgur.com/SEU_BANNER.png"
-    alt="LinkedIn"
-    width="800"
-  />
-</a>
