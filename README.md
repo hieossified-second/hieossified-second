@@ -18,5 +18,5 @@ Prazer meu nome é Kevin, Obrigada por dar uma espiada no meu Github. 😶‍�
 
 # Linguagens aprendidas:
 
-<img width="512" height="512" alt="python (1)" src="https://github.com/user-attachments/assets/d49e8267-fcfd-4d04-b348-1c8ed057d710" />
+<img width="50" height="50" alt="python (1)" src="https://github.com/user-attachments/assets/d49e8267-fcfd-4d04-b348-1c8ed057d710" />
 
