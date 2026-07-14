@@ -16,9 +16,9 @@ About me bellow:
 ✦ 😄 Pronomes: Ele/Dele.
 
 Linkedin:
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/kevin-lima-809297379/" target="_blank">
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/kevin-lima-809297379//" target="_blank">
   <img
-    src="https://i.imgur.com/"
+    src="https://i.imgur.com/SEU_BANNER.png"
     alt="LinkedIn"
     width="800"
   />
