@@ -11,7 +11,7 @@ Sou iniciante no ramo então tenho muito a aprender :D
 
 ![Minhas Estatisticas](https://github-stats-extended.vercel.app/api?username=hieossified-second&theme=midnight-purple_icons=true)
 
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=hieossified-secon&repo=Projeto-Banco-simples)](https://github.com/anuraghazra/type-trident)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=hieossified-secon&repo=Projeto-Banco-simples)](https://github.com/hieossified-second/Projeto-Banco-simples)
 
 **Sobre mim**:
 
