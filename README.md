@@ -11,9 +11,7 @@ Prazer meu nome é Kevin, Obrigada por dar uma espiada no meu Github. 😶‍�
 **Sobre mim**:
 
 * ✦ 🌱 Atualmente estou fazendo _Analise e Desenvolvimento de Sistema na instituição Senac_.
-* ✦ 📫 Como me contatar:
-* <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/de9e2e5e-4de6-4684-84f2-3d0bd247d54a" />
-**Email: kevindasilvalima2008@gmail.com / [Linkedin](https://www.linkedin.com/in/kevin-lima-809297379/).**
+* ✦ 📫 Como me contatar: **Email: kevindasilvalima2008@gmail.com / [Linkedin](https://www.linkedin.com/in/kevin-lima-809297379/).**
 
 * ✦ 😄 Pronomes: Ele/Dele.
 
