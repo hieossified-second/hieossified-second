@@ -1,26 +1,22 @@
 <div align="center">
 
-# Olá, eu sou Kevin! 👋
-
-Bem-vindo ao meu perfil no GitHub.
+ ✦ I'm Kevin, Thanks for looking at my Github 😶‍🌫️ ✦
 
 </div>
 
-
-
-Helloo :)
-My name is Kevin, Thanks for looking at my Github 😶‍🌫️
 
 Ola :)
 Prazer meu nome é Kevin, Obrigada por dar uma espiada no meu Github 😶‍🌫️
 
 About me bellow:
 
-- 🌱 I’m currently learning Systems Analysis and Development at Senac College.
-- 📫 How to reach me: Email: kevindasilvalima2008@gmail.com / Linkedin.
-- 😄 Pronouns: He/Him.
 
-<a href="https://www.linkedin.com/in/SEU-USUARIO/" target="_blank">
+✦ 🌱 Atualmente estou fazendo Analise e Desenvolvimento de Sistema na instituição Senac.
+✦ 📫 Como me contatar: Email: kevindasilvalima2008@gmail.com / Linkedin.
+✦ 😄 Pronomes: Ele/Dele.
+
+Linkedin:
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/kevin-lima-809297379?utm_source=share_via&utm_content=profile&utm_medium=member_android/" target="_blank">
   <img
     src="https://i.imgur.com/"
     alt="LinkedIn"
