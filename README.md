@@ -7,7 +7,8 @@
 Ola :)
 Prazer meu nome é Kevin, Obrigada por dar uma espiada no meu Github. 😶‍🌫️
 
-[![Estatisticas](https://github-readme-stats.vercel.app/api?username=hieossified-second&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?hieossified-second=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 
 **Sobre mim**:
 
