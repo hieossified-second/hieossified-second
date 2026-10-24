@@ -7,7 +7,7 @@
 Ola :)
 Prazer meu nome é Kevin, Obrigada por dar uma espiada no meu Github. 😶‍🌫️
 
-Sou iniciante no ramo então tenho muito a aprender :D
+Sempre com vontade de crescer e aprender :D
 
 
 
