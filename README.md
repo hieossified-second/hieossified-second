@@ -27,13 +27,53 @@ Sou iniciante no ramo então tenho muito a aprender :D
   # ✦ 📫 Como me contatar  <a href = "mailto:kevindasilvalima2008@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/kevin-lima-8095b8427/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   
-# Linguagens em APRENDIZADO:
+### Minhas Stack e Tecnologias
 
-<img width="50" height="50" alt="python (1)" src="https://github.com/user-attachments/assets/d49e8267-fcfd-4d04-b348-1c8ed057d710" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/169193d6-9c17-46f6-ae3b-f9848d92673d" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/987e841d-613f-461b-8289-40e82d9695b8" /> <img width="50" height="50" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnG7R28Ac-8yHyt4Ug4rF5TyC6H01lkQDQVErdqfl8_Q&s=10" /> <img width="50" height="50" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRXjh4Inq52Y1hMNWHsv4rbPNmrh4AgAZySxfUMWoN4w&s=10" /> <img width="50" height="50" alt="image" src="https://cdn.iconscout.com/icon/free/png-256/free-css3-icon-svg-download-png-1175237.png" />  <img width="50" height="50" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToQcewaXtlMzihptZmneI7szn9S-9kTlzlOl7EY2nJYA&s=10" /> <img width="50" height="50" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8kjE4NR3Lw5XEbVuVfohQ_nnnrlilpIHfMqO9ABwytQ&s=10" /> <img width="50" height="50" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsiBA8izpu02YIXlDiEPoZGR-yKy-JmW5iRkswT7Oy6Q&s=10" /> <img width="50" height="50" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_buv94Zm_laGXFdvBEHGGfyxuHHztRf86g88hyedo7w&s=10" />
+#### 🔸 Linguagens:
 
-# Outros programas que sei utilizar:
+<p>
+  <img width="50" height="50" alt="python" src="https://github.com/user-attachments/assets/d49e8267-fcfd-4d04-b348-1c8ed057d710" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/169193d6-9c17-46f6-ae3b-f9848d92673d" />      <img width="50" height="50" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_buv94Zm_laGXFdvBEHGGfyxuHHztRf86g88hyedo7w&s=10" />  
+ <img width="50" height="50" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToQcewaXtlMzihptZmneI7szn9S-9kTlzlOl7EY2nJYA&s=10" />  
+ <img width="50" height="50" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsiBA8izpu02YIXlDiEPoZGR-yKy-JmW5iRkswT7Oy6Q&s=10" />
+</p>
 
-<img width="50" height="50" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
+ #### 🔹 Front-end & Web:
+
+   <p> 
+     <img width="50" height="50" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRXjh4Inq52Y1hMNWHsv4rbPNmrh4AgAZySxfUMWoN4w&s=10" />
+  <img width="50" height="50" alt="image" src="https://cdn.iconscout.com/icon/free/png-256/free-css3-icon-svg-download-png-1175237.png" />
+   </p>
+
+#### 🔹 Frameworks & Bibliotecas:
+
+   <p> 
+     <img width="50" height="50" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8kjE4NR3Lw5XEbVuVfohQ_nnnrlilpIHfMqO9ABwytQ&s=10" />
+   </p>
+
+#### 🔹 Bancos de Dados (DB)
+
+   <p> 
+     <img width="50" height="50" alt="image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnG7R28Ac-8yHyt4Ug4rF5TyC6H01lkQDQVErdqfl8_Q&s=10" />
+    
+  <img width="50" height="50" alt="python" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbZXqobRYZXzbrVv01DcJ1xeCNMideiIRjyu4_5UF0Fg&s=10" />
+    
+   </p>
+
+#### 🔹 Ferramentas & Outros
+
+   <p> 
+   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/987e841d-613f-461b-8289-40e82d9695b8" />
+   <img width="50" height="50" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
+    <img width="50" height="50" alt="figma" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFCcOaGdp4z_vMeMMwRILkhF3vHsBPDBXX0e5nW9GVHQ&s=10"/>
+    <img width="50" height="50" alt="figma" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV1FpwP2xIIMwM8wrhFh0rLam42qIYB3lVKt6aHycjSA&s=10"/>
+
+    
+   </p>
+</p>
+
+
+
 
 ### Commits :)
 
