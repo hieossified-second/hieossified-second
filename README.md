@@ -22,7 +22,7 @@ Sempre com vontade de crescer e aprender :D
 
 * ✦ 🌱 Atualmente estou fazendo _Analise e Desenvolvimento de Sistema na instituição Senac_.
 * ✦ 😄 Pronomes: Ele/Dele.
-* ✦ Portifolio html/css: https://hieossified-second.github.io/Portifolio/
+* ✦ Portifolio html/css: 
 
   # ✦ 📫 Como me contatar  <a href = "mailto:kevindasilvalima2008@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/kevin-lima-8095b8427/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
